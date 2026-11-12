@@ -1,0 +1,5 @@
+1|01-11-2026|pemasukan|orang tua|orang tua|500000|harus hemat
+2|12-11-2026|pengeluaran|jajan||180000|jajan kue
+3|20-11-2026|pengeluaran|Jajan||200000|jajannnnn
+4|22-11-2026|pemasukan|orang tua|orang tua|32000|ada tambahan ortu
+5|23-11-2026|pengeluaran|ya jajan||20000|
